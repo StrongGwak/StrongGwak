@@ -19,7 +19,7 @@ I WILL.💪</h3>
 <br>
 <h1></h1>
 <h1>💻STACK</h1>
-<h3>📚Languages</h3>
+<h3>📚Skills</h3>
 <img src="https://img.shields.io/badge/Java-00838F?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
