@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=90CAF9&height=120&section=header&text=GangHan's%20GitHub!&fontSize=80&fontcolor=black" />
-
 <h1></h1>
 <h1>👋INTRODUCE</h1>
 <h3>Hi, my name is GangHan.  
@@ -58,6 +55,4 @@ I WILL.💪</h3>
 <br>
 <br>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=90CAF9&height=120&section=footer&text=Thank%20You!&fontSize=80&fontcolor=black" />
-</div>
  
