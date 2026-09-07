@@ -29,11 +29,6 @@ I WILL.💪</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrongGwak&layout=compact">
-<h1>✉Contact Me</h1>
-<br>
-<a href="https://www.notion.so/stronggwak/1152c9f5f22780cfb06ec634fe4492d1"><img src="https://img.shields.io/badge/Portfolio-F7F8E0?style=flat-square&logo=notion&logoColor=black"/></a>
-<a href="https://velog.io/@rhkrrkdgks/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<br>
 <br>
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/> rhkrrkdgks2@naver.com
 <br>
